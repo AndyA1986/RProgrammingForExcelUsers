@@ -10,3 +10,4 @@ Public GitHub repo for the YouTube video series "[R Programming for Excel Users]
 - [R Programming for Excel Users - Part 7](https://youtu.be/76mv0ku6hng)
 - [R Programming for Excel Users - Part 8](https://youtu.be/HNHM4P7giLI)
 - [R Programming for Excel Users - Part 9](https://youtu.be/IsCBLP-HGJk)
+- [R Programming for Excel Users - Part 10](https://youtu.be/pMfTSxkMbyw)
